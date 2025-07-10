@@ -1,0 +1,11 @@
+[
+  {"person": "Daphne", "year": 2017, "month": 7, "city": "Claremont"},
+  {"person": "Conner", "year": 2017, "month": 7, "city": "Claremont"},
+  {"person": "Conner", "year": 2019, "month": 5, "city": "San Francisco"},
+  {"person": "Conner", "year": 2021, "month": 1, "city": "Chicago"},
+  {"person": "Daphne", "year": 2021, "month": 8, "city": "Chicago"},
+  {"person": "Daphne", "year": 2022, "month": 1, "city": "San Francisco"},
+  {"person": "Daphne", "year": 2024, "month": 7, "city": "London"},
+  {"person": "Conner", "year": 2025, "month": 7, "city": "New York"},
+  {"person": "Daphne", "year": 2025, "month": 12, "city": "New York"}
+] 

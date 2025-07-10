@@ -1,0 +1,8 @@
+{
+    "San Francisco": { "lat": 37.7749, "lon": -122.4194 },
+    "New York": { "lat": 40.7128, "lon": -74.0060 },
+    "London": { "lat": 51.5074, "lon": -0.1278 },
+    "Hong Kong": { "lat": 22.3193, "lon": -114.1694 },
+    "Claremont": { "lat": 34.0967, "lon": -117.7198 },
+    "Chicago": { "lat": 41.8832, "lon": -87.6324 }
+  }
