@@ -107,6 +107,10 @@ body {
   margin-left: 1.25em;
 }
 
+.hk-page .events-grid {
+  text-align: left;
+}
+
 /* Golden ticket background for golden.html only */
 .golden-page {
   background-color: #d4af37; /* base gold */
